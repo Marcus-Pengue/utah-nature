@@ -7,3 +7,4 @@ data/expanded_cache/*.json
 data/expanded_cache/*.gz
 data/gbif/*.json
 *.json.gz
+data/static/*.json
